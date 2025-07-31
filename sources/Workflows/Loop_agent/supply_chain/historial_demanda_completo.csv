@@ -1,0 +1,21 @@
+Fecha,Producto,Demanda (Unidades),Tendencias estacionales,Eventos promocionales planificados,Factores económicos externos,Lanzamientos de productos
+2025-03-01,Shampoo A,120,Alta demanda (verano),Promoción 2x1,Inflación alta,Sin lanzamiento
+2025-03-08,Shampoo A,135,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
+2025-03-15,Shampoo A,140,Baja demanda (invierno),Sin evento,Recesión leve,Nuevo aroma
+2025-03-22,Shampoo A,128,Demanda estable,Descuento 10%,Estabilidad económica,Sin lanzamiento
+2025-03-29,Shampoo A,145,Alta demanda (vacaciones),Lanzamiento campaña TV,Incremento salarial,Sin lanzamiento
+2025-04-05,Shampoo A,150,Demanda estable,Sin evento,Estabilidad económica,Nuevo empaque
+2025-04-12,Shampoo A,160,Alta demanda (verano),Promoción digital,Devaluación moderada,Sin lanzamiento
+2025-04-19,Shampoo A,155,Demanda estable,Sin evento,Estabilidad económica,Nueva fórmula
+2025-04-26,Shampoo A,170,Alta demanda (promoción),Descuento temporada,Subsidio estatal,Sin lanzamiento
+2025-05-03,Shampoo A,165,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
+2025-05-10,Shampoo A,172,Demanda creciente,Campaña email,Alza en insumos,Nuevo tamaño
+2025-05-17,Shampoo A,178,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
+2025-05-24,Shampoo A,185,Alta demanda (vacaciones),Promoción verano,Aumento exportaciones,Sin lanzamiento
+2025-05-31,Shampoo A,190,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
+2025-06-07,Shampoo A,200,Demanda creciente,Promoción influencer,Cambio tributario,Nuevo producto línea B
+2025-06-14,Shampoo A,210,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
+2025-06-21,Shampoo A,215,Alta demanda (verano),Descuento especial,Variación dólar,Sin lanzamiento
+2025-06-28,Shampoo A,220,Demanda estable,Sin evento,Estabilidad económica,Nuevo formato
+2025-07-05,Shampoo A,225,Demanda creciente,Campaña redes,Crisis global leve,Sin lanzamiento
+2025-07-12,Shampoo A,230,Demanda estable,Sin evento,Estabilidad económica,Sin lanzamiento
